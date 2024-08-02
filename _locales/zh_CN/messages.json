@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "通过自动跳过视频广告来增强您的 YouTube 体验。"
+    },
+    "skip": {
+        "message": "跳过"
+    },
+    "rewind": {
+        "message": "快进"
+    }
+}

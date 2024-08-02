@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Enhance your YouTube experience by auto-skipping video ads. You won’t feel any difference between blocking and skipping ads."
+    },
+    "skip": {
+        "message": "Skip"
+    },
+    "rewind": {
+        "message": "Fast forward"
+    }
+}

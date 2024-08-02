@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Tingkatkan pengalaman YouTube anda dengan melangkau iklan video secara automatik. "
+    },
+    "skip": {
+        "message": "Langkau"
+    },
+    "rewind": {
+        "message": "Cepat ke hadapan"
+    }
+}

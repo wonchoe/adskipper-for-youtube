@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Nâng cao trải nghiệm YouTube của bạn bằng cách tự động bỏ qua quảng cáo video. "
+    },
+    "skip": {
+        "message": "Nhảy"
+    },
+    "rewind": {
+        "message": "Nhanh về phía trước"
+    }
+}

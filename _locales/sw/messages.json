@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Boresha matumizi yako ya YouTube kwa kuruka kiotomatiki matangazo ya video. "
+    },
+    "skip": {
+        "message": "Ruka"
+    },
+    "rewind": {
+        "message": "Haraka mbele"
+    }
+}

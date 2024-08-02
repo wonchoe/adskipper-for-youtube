@@ -1,0 +1,65 @@
+{
+    "manifest_version": 3,
+    "name": "AD Skipper for Youtube",
+    "version": "2.0.2",
+    "description": "__MSG_app_description__",
+    "default_locale": "en",    
+    "icons": {
+        "16": "/icons/16.png",
+        "32": "/icons/32.png",
+        "64": "/icons/64.png",
+        "128": "/icons/128.png",
+        "256": "/icons/256.png"
+    },
+    "permissions": [
+        "storage", "tabs", "scripting"
+    ],
+  "web_accessible_resources": [
+    {
+      "resources": ["content.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+    "content_scripts": [
+        {
+            "world": "MAIN",
+            "matches": [
+                "*://*.youtube.com/*",
+                "*://*.youtube-skins.com/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "world": "ISOLATED",
+            "matches": [
+                "*://*.youtube.com/*",
+                "*://*.youtube-skins.com/*"
+            ],
+            "js": [
+                "content_isolated.js"
+            ],
+            "run_at": "document_start"
+        }        
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "AD Skipper for Youtube",
+        "default_icon": {
+            "16": "/icons/16.png",
+            "32": "/icons/32.png",
+            "48": "/icons/64.png",
+            "128": "/icons/128.png",
+            "256": "/icons/256.png"
+        }
+    },  
+    "host_permissions": [
+        "*://*.youtube.com/*",
+        "*://*.youtube-skins.com/*"
+    ],    
+    "background": {
+        "service_worker": "background.js"
+    }
+}

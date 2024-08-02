@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Îmbunătățiți-vă experiența YouTube prin omiterea automată a anunțurilor video. "
+    },
+    "skip": {
+        "message": "Ocolire"
+    },
+    "rewind": {
+        "message": "Repede inainte"
+    }
+}

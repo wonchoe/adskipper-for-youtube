@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Mejore su experiencia en YouTube omitiendo automáticamente los anuncios de video. "
+    },
+    "skip": {
+        "message": "Saltar"
+    },
+    "rewind": {
+        "message": "Avance rápido"
+    }
+}

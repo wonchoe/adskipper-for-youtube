@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Video reklamları otomatik olarak atlayarak YouTube deneyiminizi geliştirin. "
+    },
+    "skip": {
+        "message": "Atlamak"
+    },
+    "rewind": {
+        "message": "İleri sar"
+    }
+}

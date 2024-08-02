@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Zwiększ komfort korzystania z YouTube, automatycznie pomijając reklamy wideo. "
+    },
+    "skip": {
+        "message": "Pominąć"
+    },
+    "rewind": {
+        "message": "Szybkie przewijanie do przodu"
+    }
+}

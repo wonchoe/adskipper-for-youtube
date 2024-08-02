@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Paranna YouTube-kokemustasi ohittamalla videomainokset automaattisesti. "
+    },
+    "skip": {
+        "message": "Ohita"
+    },
+    "rewind": {
+        "message": "Pikakelaus eteenpäin"
+    }
+}

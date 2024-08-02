@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Forbedre YouTube-opplevelsen ved å hoppe over videoannonser automatisk. "
+    },
+    "skip": {
+        "message": "Hopp over"
+    },
+    "rewind": {
+        "message": "Spol fremover"
+    }
+}

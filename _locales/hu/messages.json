@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Fokozza a YouTube-élményt a videohirdetések automatikus átugrásával. "
+    },
+    "skip": {
+        "message": "Kihagyás"
+    },
+    "rewind": {
+        "message": "Előrepörgetés"
+    }
+}

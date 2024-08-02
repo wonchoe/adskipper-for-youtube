@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Pagerinkite savo „YouTube“ patirtį automatiškai praleisdami vaizdo įrašo skelbimus. "
+    },
+    "skip": {
+        "message": "Praleisti"
+    },
+    "rewind": {
+        "message": "Pirmyn"
+    }
+}

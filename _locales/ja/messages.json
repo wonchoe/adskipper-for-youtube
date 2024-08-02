@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "動画広告を自動スキップすることで YouTube エクスペリエンスを向上させます。"
+    },
+    "skip": {
+        "message": "スキップ"
+    },
+    "rewind": {
+        "message": "早送り"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Forbedre din YouTube-oplevelse ved automatisk at springe videoannoncer over. "
+    },
+    "skip": {
+        "message": "Springe"
+    },
+    "rewind": {
+        "message": "Spol frem"
+    }
+}

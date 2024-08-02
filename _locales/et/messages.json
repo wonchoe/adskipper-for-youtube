@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Täiustage oma YouTube'i kasutuskogemust videoreklaamide automaatse vahelejätmisega. "
+    },
+    "skip": {
+        "message": "Vahele jätma"
+    },
+    "rewind": {
+        "message": "Kiiresti edasi"
+    }
+}

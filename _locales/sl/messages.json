@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Izboljšajte svojo izkušnjo v YouTubu s samodejnim preskokom video oglasov. "
+    },
+    "skip": {
+        "message": "Preskoči"
+    },
+    "rewind": {
+        "message": "Hitro naprej"
+    }
+}

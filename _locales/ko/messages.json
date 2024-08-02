@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "동영상 광고를 자동으로 건너뛰어 YouTube 환경을 개선하세요. "
+    },
+    "skip": {
+        "message": "건너뛰다"
+    },
+    "rewind": {
+        "message": "빨리 감기"
+    }
+}

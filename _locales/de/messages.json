@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Verbessern Sie Ihr YouTube-Erlebnis, indem Sie Videoanzeigen automatisch überspringen. "
+    },
+    "skip": {
+        "message": "Überspringen"
+    },
+    "rewind": {
+        "message": "Schneller Vorlauf"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Uzlabojiet savu YouTube pieredzi, automātiski izlaižot videoreklāmas. "
+    },
+    "skip": {
+        "message": "Izlaist"
+    },
+    "rewind": {
+        "message": "Ātri uz priekšu"
+    }
+}

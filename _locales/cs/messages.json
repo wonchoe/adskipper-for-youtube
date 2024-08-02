@@ -1,0 +1,11 @@
+{
+    "app_description": {
+        "message": "Vylepšete svůj zážitek z YouTube automatickým přeskakováním videoreklam. "
+    },
+    "skip": {
+        "message": "Přeskočit"
+    },
+    "rewind": {
+        "message": "Rychle vpřed"
+    }
+}
